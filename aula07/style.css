@@ -1,0 +1,29 @@
+h1{
+    color:firebrick;
+}
+
+.container_1{
+    background-color:blueviolet;
+    border-style:solid;
+    border-width: 10px;
+    border-top-color: deeppink;
+    border-left-color: darkmagenta;
+    border-bottom-color: blueviolet; 
+    border-right-color: darkorchid;
+}
+
+
+.container_2{
+    background-color:midnightblue ;
+    border-style: solid;
+    border-width: 10px;
+    border-top-color: deeppink;
+    border-left-color: darkmagenta;
+    border-bottom-color: blueviolet; 
+    border-right-color: darkorchid;
+}
+
+.sobrenome{
+    background-color: black;
+}
+
